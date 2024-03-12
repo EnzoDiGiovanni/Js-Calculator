@@ -1,3 +1,3 @@
 # Js-Calculator
 
-Test Online : [TicTacToe](https://enzodigiovanni.github.io/Js-Calculator/)
+Test Online : [Calculator](https://enzodigiovanni.github.io/Js-Calculator/)
